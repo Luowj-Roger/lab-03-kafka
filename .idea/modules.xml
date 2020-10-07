@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka.iml" filepath="$PROJECT_DIR$/lab-03-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo/lab-03-kafka-demo.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo/lab-03-kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-ack/lab-03-kafka-demo-ack.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-ack/lab-03-kafka-demo-ack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-batch/lab-03-kafka-demo-batch.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-batch/lab-03-kafka-demo-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-batch-consume/lab-03-kafka-demo-batch-consume.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-batch-consume/lab-03-kafka-demo-batch-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-broadcast/lab-03-kafka-demo-broadcast.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-broadcast/lab-03-kafka-demo-broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-concurrency/lab-03-kafka-demo-concurrency.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-concurrency/lab-03-kafka-demo-concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-demo-transaction/lab-03-kafka-demo-transaction.iml" filepath="$PROJECT_DIR$/lab-03-kafka-demo-transaction/lab-03-kafka-demo-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03-kafka-native/lab-03-kafka-native.iml" filepath="$PROJECT_DIR$/lab-03-kafka-native/lab-03-kafka-native.iml" />
+    </modules>
+  </component>
+</project>

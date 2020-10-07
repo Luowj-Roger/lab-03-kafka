@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab-03-kafka-demo" />
+        <module name="lab-03-kafka-demo-ack" />
+        <module name="lab-03-kafka-demo-batch" />
+        <module name="lab-03-kafka-demo-batch-consume" />
+        <module name="lab-03-kafka-demo-broadcast" />
+        <module name="lab-03-kafka-demo-concurrency" />
+        <module name="lab-03-kafka-demo-transaction" />
+        <module name="lab-03-kafka-native" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lab-03-kafka" target="1.6" />
+      <module name="lab-03-kafka-demo" target="1.8" />
+      <module name="lab-03-kafka-demo-ack" target="1.8" />
+      <module name="lab-03-kafka-demo-batch" target="1.8" />
+      <module name="lab-03-kafka-demo-batch-consume" target="1.8" />
+      <module name="lab-03-kafka-demo-broadcast" target="1.8" />
+      <module name="lab-03-kafka-demo-concurrency" target="1.8" />
+      <module name="lab-03-kafka-demo-transaction" target="1.8" />
+      <module name="lab-03-kafka-native" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
